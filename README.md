@@ -16,6 +16,7 @@ This advanced course is complemented by these lab sessions to guide students thr
 | **Week 2** | Gaussian process regression   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srossi93/asi-labs/blob/master/lab_week2-public/Gaussian_Process_Regression.ipynb)|
 | **Week 3** | Logistic regression with MCMC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srossi93/asi-labs/blob/master/lab_week3-public/Bayesian_Logistic_Regression_MCMC.ipynb)|
 | **Week 4** | Variational inference         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srossi93/asi-labs/blob/master/lab_week4-public/Variational_Logistic_Regression.ipynb)|
+| **Week 5** | Probabilistic PCA         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srossi93/asi-labs/blob/master/lab_week5-public/Probabilistic_PCA.ipynb)|
 
 ### [Advanced] Local Jupyter
 
